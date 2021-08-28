@@ -92,7 +92,7 @@
       @enderror
     </div>
     
-    <button type="submit" class="btn btn-default">Submit</button>
+    <button type="submit" class="btn btn-default" style="color: white;background-color: green">Submit</button>
   </form>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
